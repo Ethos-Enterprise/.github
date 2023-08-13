@@ -6,6 +6,6 @@
 5 - Respeitar opiniões diferentes. <br>
 6 - Entender que nem toda hora é a hora certa de fazer brincadeiras/piadas. <br>
 7 - Cada integrante deve atualizar o planner conforme execução de suas atividades. <br>
-8 - Ter uma comunicação clara e honesta, sempre avisar caso não consiga realizar uma task, comparecer em eventos ou não concordar com algo para conversamos sobre
+8 - Ter uma comunicação clara e honesta, sempre avisar caso não consiga realizar uma task, comparecer em eventos ou não concordar com algo para conversamos sobre.<br>
 9 - Manter o sharepoint atualizado. <br>
 10 - As reuniões devem ser programadas para durarem no máximo 1:30hr.
